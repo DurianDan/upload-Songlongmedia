@@ -1,5 +1,5 @@
 (Vietnamese only :3)
-# **Đoạn Script tự động format và đăng video hàng loạt, lên 2 kênh youtube "Songlongmedia official" và "Songlongmedia Unboxing - 60s"**
+# **Đoạn Script tự động format và đăng video hàng loạt, lên 2 kênh youtube [Songlongmedia official](https://www.youtube.com/c/Songlongmedia) và [Songlongmedia Unboxing - 60s](https://www.youtube.com/channel/UCf1XWYqYED38dYmK2dQb44A/videos)**
 
 ## **Các Python Package cần cài đặt:**
 >bitlyshortener  
